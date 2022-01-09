@@ -12,8 +12,8 @@
 <details>
   <summary><b>🔗 &nbsp;Connect with me</b></summary>
   <br/>
-    <a href="https://github.com/bdrxthen" target="blank"><img align="left" alt="Bedirhan Bulu | Github" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
-    <a href="www.linkedin.com/in/bedirhan-bulu" target="blank"><img align="left" alt="Bedirhan Bulu | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+    <a href="https://github.com/bdrxthen" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="Bedirhan Bulu" height="26" width="26" /></a>
+    <a href="https://www.linkedin.com/in/bedirhan-bulu/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Bedirhan Bulu | LinkedIn" height="26" width="26" /></a>
   </br>
 </details>
 
