@@ -1,8 +1,8 @@
 ### Hi there <a href=""><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 - 👋 Hi, I’m @bdrxthen
-- 👀 I’m interested in " Unity 2D/3D "
-- 🌱 I’m currently learning - " Unreal Engine "
+- 👀 I’m interested in " Mobil App "
+- 🌱 I’m currently learning - " Flutter "
 - 💞️ I’m looking to collaborate on - " Internship "
 - 👯 I’m looking to collaborate with - " Other content creators "
 - 📫 How to reach me - " bedirhan_bulu@hotmail.com "
